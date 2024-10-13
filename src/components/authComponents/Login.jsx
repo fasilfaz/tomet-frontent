@@ -53,10 +53,10 @@ const Login = () => {
         <section className="h-full w-full">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Login - Urban Nest Furniture | Sign in to Your Account</title>
-                <meta name="description" content="Sign in to your Urban Nest account. Access your saved preferences, track orders, and manage your furniture shopping experience securely online." />
-                <meta name="keywords" content="urban nest login, sign in to account, furniture e-commerce, online furniture store, account access, user login" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/login" />
+                <title>Login - Tomet Clothing | Sign in to Your Account</title>
+                <meta name="description" content="Sign in to your Tomet Clothing account. Access your saved preferences, track orders, and manage your fashion shopping experience securely online." />
+                <meta name="keywords" content="Tomet Clothing Login, Sign in to Account, Fashion E-commerce, Online Clothing Store, Account Access, User Login." />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/login" />
             </Helmet>
             <Toaster />
             <div className="grid grid-cols-1 lg:grid-cols-2 h-full w-full">

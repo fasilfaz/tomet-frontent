@@ -45,10 +45,10 @@ const Order = () => {
         <Card className="mx-auto my-4 md:my-6 container py-5">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Order Payment - Urban Nest Furniture | Complete Your Purchase</title>
-                <meta name="description" content="Complete your purchase securely at Urban Nest. Follow the payment process to finalize your order for quality furniture and home decor items. Shop confidently online!" />
-                <meta name="keywords" content="urban nest order payment, complete purchase furniture, secure online payment, furniture checkout, home decor shopping, order confirmation" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/order/:id" />
+                <title>Order Payment - Tomet Clothing | Complete Your Purchase</title>
+                <meta name="description" content="Complete your purchase securely at Tomet Clothing. Follow the payment process to finalize your order for quality apparel and fashion items. Shop confidently online!" />
+                <meta name="keywords" content="Tomet Clothing Order Payment, Complete Purchase Apparel, Secure Online Payment, Fashion Checkout, Clothing Shopping, Order Confirmation" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/order/:id" />
             </Helmet>
             <div className="overflow-hidden rounded-xl ">
                 <div className="grid grid-cols-1 md:grid-cols-2">

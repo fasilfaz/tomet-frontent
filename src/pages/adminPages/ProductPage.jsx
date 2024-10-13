@@ -31,10 +31,10 @@ const ProductListingPage = () => {
     <div className="container py-5 w-full h-full ">
     <Helmet>
       <meta charSet="utf-8" />
-      <title>Admin Products - Urban Nest Furniture | Manage Product Inventory</title>
-      <meta name="description" content="Efficiently manage product inventory with Urban Nest's admin panel. Update, organize, and showcase furniture products to enhance your online store's offerings." />
-      <meta name="keywords" content="urban nest admin products, manage product inventory, furniture e-commerce admin panel, product updates, inventory management, online store management" />
-      <link rel="canonical" href="https://urban-nest-app.netlify.app/admin/products" />
+      <title>Admin Products - Tomet Clothing | Manage Product Inventory</title>
+      <meta name="description" content="Efficiently manage product inventory with Tomet Clothing's admin panel. Update, organize, and showcase apparel products to enhance your online store's offerings." />
+      <meta name="keywords" content="Tomet Clothing Admin Products, Manage Product Inventory, Fashion E-commerce Admin Panel, Product Updates, Inventory Management, Online Store Management" />
+      <link rel="canonical" href="https://tomet-frontent.vercel.app/admin/products" />
     </Helmet>
     <Toaster />
     <ProductTable />

@@ -39,7 +39,7 @@ const Hero = () => {
                 <title>Tomet Clothing - Quality cloths for Everyone | Shop Online</title>
                 <meta name="description" content="Discover Tomet Clothing: Stylish and Quality Apparel for You. Explore Our Collection of Trendy Outfits Designed for Comfort and Fashion. Shop Now and Redefine Your Wardrobe!" />
                 <meta name="keywords" content="Tomet Clothing: Shop Fashionable Apparel Online, Premium Clothing for Every Occasion, Casual Wear, Formal Outfits, Trendy Accessories, Activewear, and Stylish Footwear." />
-                <link rel="canonical" href="http://www.yourwebsite.com" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/" />
             </Helmet>
             <div
                 className="h-[70vh] grid place-items-center w-full bg-[image:var(--image-url-sm)] sm:bg-[image:var(--image-url-md)] xl:bg-[image:var(--image-url)]"

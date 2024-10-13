@@ -23,8 +23,8 @@ const data = [
         answer: "In the rare event that you receive damaged or defective items, please contact our customer support team immediately. We will arrange for a replacement or refund as per our return policy."
     },
     {
-        question: "Do you offer assembly services for furniture?",
-        answer: "Yes, we offer assembly services for select furniture items. You can opt for assembly services during checkout, and our team will arrange for professional assembly upon delivery."
+      question: "Do you offer styling services for clothing?",
+        answer: "Yes, we offer styling services for select clothing items. You can opt for styling services during checkout, and our team will assist in curating outfits and fashion tips tailored to your preferences."
     }
 ]
 

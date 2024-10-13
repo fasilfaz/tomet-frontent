@@ -48,10 +48,10 @@ const AdminDashboard = () => {
         <div className='container py-5'>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Admin Dashboard - Urban Nest Furniture | Manage Your E-commerce Operations</title>
-                <meta name="description" content="Monitor and manage your e-commerce operations efficiently with Urban Nest's admin dashboard. Track sales, manage inventory, and optimize your furniture store's performance." />
-                <meta name="keywords" content="urban nest admin dashboard, e-commerce operations management, furniture store admin panel, sales tracking, inventory management, performance optimization" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/admin/dashboard" />
+                <title>Admin Dashboard - Tomet Clothing | Manage Your E-commerce Operations</title>
+                <meta name="description" content="Monitor and manage your e-commerce operations efficiently with Tomet Clothing's admin dashboard. Track sales, manage inventory, and optimize your fashion store's performance." />
+                <meta name="keywords" content="Tomet Clothing Admin Dashboard, E-commerce Operations Management, Fashion Store Admin Panel, Sales Tracking, Inventory Management, Performance Optimization." />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/admin/dashboard" />
             </Helmet>
             {error ? (
                 <ErrorMessage />

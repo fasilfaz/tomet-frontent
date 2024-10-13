@@ -17,7 +17,7 @@ const AboutPage = () => {
                     content="Tomet Clothing, About Tomet, Sustainable Fashion, Eco-Friendly Apparel, Fashion Design, Clothing Craftsmanship."
                 />
                 <link rel="canonical" 
-                // href="https://urban-nest-app.netlify.app/about"
+                href="https://tomet-frontent.vercel.app/about"
                  />
             </Helmet>
             <SubBanner

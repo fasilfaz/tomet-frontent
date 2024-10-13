@@ -7,10 +7,10 @@ const FaqPage = () => {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>FAQ - Urban Nest Furniture | Answers to Common Questions About Our Products & Services</title>
-        <meta name="description" content="Explore Urban Nest's FAQ for answers to common questions about our furniture products and services. Find information on shipping, returns, warranties, and more." />
-        <meta name="keywords" content="urban nest faq, frequently asked questions, furniture product details, shipping information, return policy, warranty coverage" />
-        <link rel="canonical" href="https://urban-nest-app.netlify.app/faq" />
+        <title>FAQ - Tomet Clothing | Answers to Common Questions About Our Products & Services</title>
+        <meta name="description" content="Explore Tomet Clothing's FAQ for answers to common questions about our apparel products and services. Find information on shipping, returns, warranties, and more" />
+        <meta name="keywords" content="Tomet Clothing FAQ, Frequently Asked Questions, Apparel Product Details, Shipping Information, Return Policy, Warranty Coverage" />
+        <link rel="canonical" href="https://tomet-frontent.vercel.app/faq" />
       </Helmet>
       <SubBanner title={"Frequently Asked Questions"} href={'/'} page1={"Home"} page2={"FAQ"} color={"text-black"}/>
       <section className='container py-20'>

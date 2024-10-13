@@ -8,10 +8,10 @@ const SellerProductListPage = () => {
     <div className='container py-5'>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Seller Products - Urban Nest Furniture | Manage Products</title>
-        <meta name="description" content="Efficiently manage products with Urban Nest's seller dashboard. Add, update, and showcase furniture products to attract customers and enhance your online store's offerings." />
-        <meta name="keywords" content="urban nest seller products, manage products, furniture e-commerce seller dashboard, product management, furniture catalog, online store management" />
-        <link rel="canonical" href="https://urban-nest-app.netlify.app/seller/products" />
+        <title>Seller Products - Tomet Clothing | Manage Products</title>
+        <meta name="description" content="Efficiently manage products with Tomet Clothing's seller dashboard. Add, update, and showcase apparel products to attract customers and enhance your online store's offerings." />
+        <meta name="keywords" content="Tomet Clothing Seller Products, Manage Products, Fashion E-commerce Seller Dashboard, Product Management, Apparel Catalog, Online Store Management." />
+        <link rel="canonical" href="https://tomet-frontent.vercel.app/seller/products" />
       </Helmet>
       <Toaster />
       <SellerProductTable />

@@ -53,10 +53,10 @@ const SellerDashBoardPage = () => {
     <div className="h-screen container py-5">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Seller Dashboard - Urban Nest Furniture | Manage Your Store</title>
-        <meta name="description" content="Manage your furniture store effectively with Urban Nest's seller dashboard. Track sales, manage orders, and optimize your store to grow your business and enhance customer satisfaction." />
-        <meta name="keywords" content="urban nest seller dashboard, manage furniture store, furniture e-commerce seller tools, sales tracking, order management, store optimization" />
-        <link rel="canonical" href="https://urban-nest-app.netlify.app/seller/dashboard" />
+        <title>Seller Dashboard - Tomet Clothing | Manage Your Store</title>
+        <meta name="description" content="Manage your clothing store effectively with Tomet Clothing's seller dashboard. Track sales, manage orders, and optimize your store to grow your business and enhance customer satisfaction." />
+        <meta name="keywords" content="Tomet Clothing Seller Dashboard, Manage Clothing Store, Fashion E-commerce Seller Tools, Sales Tracking, Order Management, Store Optimization" />
+        <link rel="canonical" href="https://tomet-frontent.vercel.app/seller/dashboard" />
       </Helmet>
       <Toaster />
       {error ? <ErrorMessage /> :

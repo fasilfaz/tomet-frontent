@@ -9,10 +9,10 @@ const Whislist = () => {
         <section>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Wishlist - Urban Nest Furniture | Save Your Favorite Items</title>
-                <meta name="description" content="Save your favorite furniture items to your wishlist with Urban Nest. Easily track and manage items you want to purchase later for a personalized shopping experience." />
-                <meta name="keywords" content="urban nest wishlist, save favorite items, furniture e-commerce user dashboard, item tracking, personalized shopping, wishlist management" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/wishlist" />
+                <title>Wishlist - Tomet Clothing | Save Your Favorite Styles</title>
+                <meta name="description" content="Save your favorite styles to your wishlist with Tomet Clothing. Easily track and manage items you want to purchase later for a personalized shopping experience" />
+                <meta name="keywords" content="Tomet Clothing Wishlist, Save Favorite Styles, Fashion E-commerce User Dashboard, Item Tracking, Personalized Shopping, Wishlist Management." />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/wishlist" />
             </Helmet>
             <SubBanner title={"Whislist"} href={'/'} page1={"Home"} page2={"Whislist"} color={"text-black"}/>
             <section className='container py-5'>

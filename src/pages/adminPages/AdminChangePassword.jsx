@@ -52,10 +52,10 @@ const AdminChangePassword = () => {
         <div className='container py-5'>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Change Password - Urban Nest Furniture | Secure Account Management</title>
-                <meta name="description" content="Change your password securely at Urban Nest. Protect your account with our easy-to-use password update feature. Manage your furniture shopping experience confidently online." />
-                <meta name="keywords" content="urban nest change password, update account password, secure account management, online furniture store, account security, password reset" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/user/password" />
+                <title>Change Password - Tomet Clothing | Secure Account Management</title>
+                <meta name="description" content="Change your password securely at Tomet Clothing. Protect your account with our easy-to-use password update feature. Manage your fashion shopping experience confidently online." />
+                <meta name="keywords" content="Tomet Clothing Change Password, Update Account Password, Secure Account Management, Online Clothing Store, Account Security, Password Reset." />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/user/password" />
             </Helmet>
             <Toaster />
             <BreadCrumbTwo

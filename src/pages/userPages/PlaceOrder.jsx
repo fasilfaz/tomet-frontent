@@ -47,10 +47,10 @@ const PlaceOrder = () => {
         <div className='container py-5'>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Place Order - Urban Nest Furniture | Complete Your Purchase</title>
-                <meta name="description" content="Complete your purchase with Urban Nest furniture. Proceed securely to finalize your order, enter shipping details, and choose payment options for a seamless shopping experience." />
-                <meta name="keywords" content="urban nest place order, complete purchase, furniture e-commerce checkout, order finalization, shipping details, payment options" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/placeorder" />
+                <title>Place Order - Tomet Clothing | Complete Your Purchase</title>
+                <meta name="description" content="Complete your purchase with Tomet Clothing. Proceed securely to finalize your order, enter shipping details, and choose payment options for a seamless shopping experience" />
+                <meta name="keywords" content="Tomet Clothing Place Order, Complete Purchase, Fashion E-commerce Checkout, Order Finalization, Shipping Details, Payment Options" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/placeorder" />
             </Helmet>
             <ProgressSteps step1 step2 step3 />
             <div>

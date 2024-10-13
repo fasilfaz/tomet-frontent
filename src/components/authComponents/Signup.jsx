@@ -73,10 +73,10 @@ const Signup = () => {
         <section className="h-full w-full">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Sign Up - Urban Nest Furniture | Create Your Account</title>
-                <meta name="description" content="Create your Urban Nest account today. Join our community, save preferences, track orders, and enjoy a personalized furniture shopping experience online." />
-                <meta name="keywords" content="urban nest sign up, create account furniture store, furniture e-commerce, online registration, user registration, personalized shopping experience" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/signup" />
+                <title>Sign Up - Tomet Clothing | Create Your Account</title>
+                <meta name="description" content="Create your Tomet Clothing account today. Join our community, save preferences, track orders, and enjoy a personalized fashion shopping experience online." />
+                <meta name="keywords" content="Tomet Clothing Sign Up, Create Account Clothing Store, Fashion E-commerce, Online Registration, User Registration, Personalized Shopping Experience." />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/signup" />
             </Helmet>
             <Toaster />
             <div className='grid lg:grid-cols-2 h-full'>

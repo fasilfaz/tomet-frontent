@@ -29,10 +29,10 @@ const OrderLists = () => {
         <div className="p-0">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>My Orders - Urban Nest Furniture | View Order History</title>
-                <meta name="description" content="View your order history with Urban Nest furniture. Track order status, manage returns, and review past purchases to stay updated on your furniture deliveries." />
-                <meta name="keywords" content="urban nest my orders, view order history, furniture e-commerce user dashboard, order tracking, returns management, purchase history" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/user/orders" />
+                <title>My Orders - Tomet Clothing | View Order History</title>
+                <meta name="description" content="View your order history with Tomet Clothing. Track order status, manage returns, and review past purchases to stay updated on your apparel deliveries" />
+                <meta name="keywords" content="Tomet Clothing My Orders, View Order History, Fashion E-commerce User Dashboard, Order Tracking, Returns Management, Purchase History" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/user/orders" />
             </Helmet>
             {role === "admin" ? <Toaster /> : null}
             <div className="mb-5">

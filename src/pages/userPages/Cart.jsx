@@ -17,9 +17,7 @@ export const CartPage = () => {
                 <meta name="description" content="View your shopping cart at Tomet Clothing. Review and finalize your apparel selections before completing your purchase. Shop stylish clothing conveniently online." />
                 <meta name="keywords" content="Tomet Clothing Cart, View Shopping Cart, Complete Purchase Apparel, Online Clothing Store, Fashion Shopping, Clothing Checkout."/>
                 <link rel="canonical" 
-                href="
-                //  https://urban-nest-app.netlify.app/cart
-                " />
+                href="https://tomet-frontent.vercel.app/cart" />
 
             </Helmet>
 

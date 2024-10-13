@@ -57,10 +57,10 @@ const ResetPassword = () => {
         <div className='container py-20'>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Reset Password - Urban Nest Furniture | Update Your Password</title>
-                <meta name="description" content="Update your password securely with Urban Nest furniture. Follow simple steps to reset your account password and ensure secure access to your online account." />
-                <meta name="keywords" content="urban nest reset password, update password, furniture e-commerce account security, password reset, secure password update" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/reset-password" />
+                <title>Reset Password - Tomet Clothing | Update Your Password</title>
+                <meta name="description" content="Update your password securely with Tomet Clothing. Follow simple steps to reset your account password and ensure secure access to your online account" />
+                <meta name="keywords" content="Tomet Clothing Reset Password, Update Password, Fashion E-commerce Account Security, Password Reset, Secure Password Update" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/reset-password" />
             </Helmet>
             <Toaster />
             <h1 className="text-center text-2xl font-bold mb-6">Reset Password</h1>

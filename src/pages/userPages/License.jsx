@@ -17,7 +17,7 @@ const LicensingPage = () => {
                     content="Tomet Clothing Licensing, Fashion Design Licensing, Commercial Use License, Personal Use License, Apparel Design Rights, Fashion Copyright."
                 />
                 <link rel="canonical" 
-                // href="https://urban-nest-app.netlify.app/licensing"
+                href="https://tomet-frontent.vercel.app/licensing"
                  />
             </Helmet>
             <SubBanner

@@ -74,10 +74,10 @@ const ProfilePage = () => {
         <div >
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>User Profile - Urban Nest Furniture | Manage Your Account</title>
-                <meta name="description" content="Manage your account with Urban Nest furniture. Update personal information, view order history, and adjust preferences to enhance your shopping experience." />
-                <meta name="keywords" content="urban nest user profile, manage account, furniture e-commerce user dashboard, personal information update, order history, account preferences" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/user/profile" />
+                <title>User Profile - Tomet Clothing | Manage Your Account</title>
+                <meta name="Manage your account with Tomet Clothing. Update personal information, view order history, and adjust preferences to enhance your shopping experience" />
+                <meta name="keywords" content="Tomet Clothing User Profile, Manage Account, Fashion E-commerce User Dashboard, Personal Information Update, Order History, Account Preferences" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/user/profile" />
             </Helmet>
             <Toaster />
                 <SubBanner page1={"Home"}

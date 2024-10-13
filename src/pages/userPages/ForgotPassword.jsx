@@ -40,10 +40,10 @@ const ForgotPassword = () => {
     <div className='container py-20'>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Forgot Password - Urban Nest Furniture | Reset Your Account Password</title>
-        <meta name="description" content="Forgot your password? Reset it securely at Urban Nest. Follow the simple steps to regain access to your account. Manage your furniture shopping experience confidently online." />
-        <meta name="keywords" content="urban nest forgot password, reset account password, secure password reset, online furniture store, account recovery, password recovery" />
-        <link rel="canonical" href="https://urban-nest-app.netlify.app/forget-password" />
+        <title>Forgot Password - Tomet Clothing | Reset Your Account Password</title>
+        <meta name="description" content="Forgot your password? Reset it securely at Tomet Clothing. Follow the simple steps to regain access to your account and manage your clothing shopping experience confidently online." />
+        <meta name="keywords" content="Tomet Clothing Forgot Password, Reset Account Password, Secure Password Reset, Online Clothing Store, Account Recovery, Password Recovery." />
+        <link rel="canonical" href="https://tomet-frontent.vercel.app/forget-password" />
       </Helmet>
       <Toaster />
         <h1 className="text-center text-2xl font-bold mb-6">Forgot Password</h1>

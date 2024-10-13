@@ -20,10 +20,10 @@ const SellerPage = () => {
         <section className='container py-5'>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Become a Seller - Urban Nest Furniture | Start Selling Your Furniture</title>
-                <meta name="description" content="Join Urban Nest as a seller. Start selling your furniture products online. Sign up, list your items, and reach a wide audience of furniture enthusiasts." />
-                <meta name="keywords" content="urban nest become a seller, start selling furniture, furniture e-commerce seller registration, list furniture products, reach furniture buyers" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/seller" />
+                <title>Become a Seller - Tomet Clothing | Start Selling Your Fashion Products</title>
+                <meta name="description" content="Join Tomet Clothing as a seller. Start selling your fashion products online. Sign up, list your items, and reach a wide audience of fashion enthusiast" />
+                <meta name="keywords" content="Tomet Clothing Become a Seller, Start Selling Fashion Products, Fashion E-commerce Seller Registration, List Fashion Items, Reach Fashion Buyers" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/seller" />
             </Helmet>
             <div>
                 <h1 className='text-center sm:text-4xl pb-2 text-2xl font-bold line-clamp-4'>Become a Seller<span className='sm:inline hidden'> of Tomet Clothing</span></h1>

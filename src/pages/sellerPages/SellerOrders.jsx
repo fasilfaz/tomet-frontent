@@ -21,10 +21,10 @@ const SellerOrderPage = () => {
     <div className='container py-5'>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Seller Orders - Urban Nest Furniture | Manage Orders</title>
-        <meta name="description" content="Efficiently manage orders with Urban Nest's seller dashboard. Track, process, and fulfill furniture orders to ensure timely delivery and customer satisfaction." />
-        <meta name="keywords" content="urban nest seller orders, manage orders, furniture e-commerce seller dashboard, order tracking, order processing, order fulfillment" />
-        <link rel="canonical" href="https://urban-nest-app.netlify.app/seller/orders" />
+        <title>Seller Orders - Tomet Clothing | Manage Orders</title>
+        <meta name="description" content="Efficiently manage orders with Tomet Clothing's seller dashboard. Track, process, and fulfill apparel orders to ensure timely delivery and customer satisfaction." />
+        <meta name="keywords" content="Tomet Clothing Seller Orders, Manage Orders, Fashion E-commerce Seller Dashboard, Order Tracking, Order Processing, Order Fulfillment." />
+        <link rel="canonical" href="https://tomet-frontent.vercel.app/seller/orders" />
       </Helmet>
       <Toaster />
       <div className='flex justify-start'>

@@ -96,10 +96,10 @@ const ProductPage = () => {
         <section className='relative'>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Shop Furniture - Urban Nest | Quality Home Furnishings for Every Room</title>
-                <meta name="description" content="Discover Urban Nest's collection of quality furniture for every room. Browse our wide selection of living room, bedroom, dining, and outdoor furniture. Shop online and transform your space today!" />
-                <meta name="keywords" content="urban nest shop furniture, online furniture store, living room furniture, bedroom sets, dining furniture, outdoor decor, modern furniture" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/shop" />
+                <title>Shop Fashion - Tomet Clothing | Quality Apparel for Every Occasion</title>
+                <meta name="description" content="Discover Tomet Clothing's collection of quality apparel for every occasion. Browse our wide selection of stylish outfits, accessories, and footwear. Shop online and elevate your wardrobe today!" />
+                <meta name="keywords" content="Tomet Clothing Shop Fashion, Online Fashion Store, Casual Wear, Formal Attire, Accessories, Footwear, Stylish Apparel" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/shop" />
             </Helmet>
             <SubBanner title={"Products"} href={'/'} page1={"Home"} page2={"Products"} color={"text-black"} />
             <section className='grid gap-5 sm:gap-0 grid-cols-12'>

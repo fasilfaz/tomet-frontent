@@ -21,10 +21,10 @@ const OrderPage = () => {
     <div className="w-full h-full container py-5">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Admin Orders - Urban Nest Furniture | Manage Customer Orders</title>
-        <meta name="description" content="Efficiently manage customer orders with Urban Nest's admin panel. Track, process, and fulfill furniture orders to ensure a seamless shopping experience for your customers." />
-        <meta name="keywords" content="urban nest admin orders, manage customer orders, furniture e-commerce admin panel, order processing, order fulfillment, customer satisfaction" />
-        <link rel="canonical" href="https://urban-nest-app.netlify.app/admin/orders" />
+        <title>Admin Orders - Tomet Clothing | Manage Customer Orders</title>
+        <meta name="description" content="Efficiently manage customer orders with Tomet Clothing's admin panel. Track, process, and fulfill apparel orders to ensure a seamless shopping experience for your customers." />
+        <meta name="keywords" content="Tomet Clothing Admin Orders, Manage Customer Orders, Fashion E-commerce Admin Panel, Order Processing, Order Fulfillment, Customer Satisfaction." />
+        <link rel="canonical" href="https://tomet-frontent.vercel.app/admin/orders" />
       </Helmet>
       <Toaster />
       <div className='flex justify-start'>

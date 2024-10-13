@@ -33,10 +33,10 @@ const ShippingPage = () => {
         <div className='container py-5 mx-auto'>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Shipping Address - Urban Nest Furniture | Enter Your Shipping Details</title>
-                <meta name="description" content="Enter your shipping address for Urban Nest furniture orders. Provide accurate delivery information to ensure your furniture purchases arrive promptly and securely." />
-                <meta name="keywords" content="urban nest shipping address, enter shipping details, furniture e-commerce checkout, order delivery information, shipping information update" />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/shipping" />
+                <title>Shipping Address - Tomet Clothing | Enter Your Shipping Details</title>
+                <meta name="description" content="Enter your shipping address for Tomet Clothing orders. Provide accurate delivery information to ensure your fashion purchases arrive promptly and securely" />
+                <meta name="keywords" content="Tomet Clothing Shipping Address, Enter Shipping Details, Fashion E-commerce Checkout, Order Delivery Information, Shipping Information Update" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/shipping" />
             </Helmet>
             <ProgressSteps step1 step2 />
             <div className="pt-5 flex justify-around items-center flex-wrap">

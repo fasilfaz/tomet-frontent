@@ -8,16 +8,16 @@ const PrivacyPolicy = () => {
         <div>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Privacy Policy - Urban Nest Furniture</title>
+                <title>Privacy Policy - Tomet Clothing</title>
                 <meta
                     name="description"
-                    content="Learn about Urban Nest Furniture's privacy policy and how we collect, use, and protect your personal information. We are committed to respecting your privacy and safeguarding your data."
+                    content="Learn about Tomet Clothing's privacy policy and how we collect, use, and protect your personal information. We are committed to respecting your privacy and safeguarding your data."
                 />
                 <meta
                     name="keywords"
-                    content="urban nest furniture, privacy policy, data protection, personal information, online privacy, ecommerce privacy"
+                    content="Tomet Clothing, Privacy Policy, Data Protection, Personal Information, Online Privacy, E-commerce Privacy"
                 />
-                <link rel="canonical" href="https://urban-nest-app.netlify.app/privacy-policy" />
+                <link rel="canonical" href="https://tomet-frontent.vercel.app/privacy-policy" />
             </Helmet>
             <SubBanner
                 page1={"Home"}

@@ -74,10 +74,10 @@ const OrderDetail = () => {
         <div className="container py-5">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Order Details - Urban Nest Furniture | View Order Details</title>
-                <meta name="description" content="View detailed order information for Urban Nest furniture. Track order status, manage shipping details, and ensure timely delivery to enhance customer satisfaction." />
-                <meta name="keywords" content="urban nest order details, view order details, furniture e-commerce order management, order tracking, shipping details, customer satisfaction" />
-                <link rel="canonical" href={`https://urban-nest-app.netlify.app/order-details/${id}`} />
+                <title>Order Details - Tomet Clothing | View Order Details</title>
+                <meta name="description" content="View detailed order information for Tomet Clothing. Track order status, manage shipping details, and ensure timely delivery to enhance customer satisfaction." />
+                <meta name="keywords" content="Tomet Clothing Order Details, View Order Details, Fashion E-commerce Order Management, Order Tracking, Shipping Details, Customer Satisfaction." />
+                <link rel="canonical" href={`https://tomet-frontent.vercel.app/order-details/${id}`} />
             </Helmet>
             <div className="py-5">
                 {getBreadcrumb()}

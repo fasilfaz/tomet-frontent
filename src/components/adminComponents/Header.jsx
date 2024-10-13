@@ -10,7 +10,7 @@ const Header = ({ sidebarToggle, setSidebarToggle }) => {
         <header className='bg-zinc-100 dark:bg-zinc-900 px-4 py-3 flex justify-between'>
             <div className='flex items-center text-lg '>
                 <Menu className={`me-4 cursor-pointer md:hidden`} onClick={() => setSidebarToggle(!sidebarToggle)} />
-                <span className='font-semibold'>UrbanNest</span>
+                <span className='font-semibold'>Tomet Clothing</span>
             </div>
             <div className='flex items-center gap-x-5'>
                 <div>

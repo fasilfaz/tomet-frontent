@@ -22,10 +22,10 @@ const ProductUpdatePage = () => {
         <div className="container py-5 w-full overflow-x-hidden h-full">
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Update Product - Urban Nest Furniture | Edit Product Details</title>
-                <meta name="description" content="Edit product details for Urban Nest furniture. Update descriptions, images, and specifications for the selected product to enhance your online store's offerings." />
-                <meta name="keywords" content="urban nest update product, edit product details, furniture e-commerce admin panel, product management, furniture product update, online store updates" />
-                <link rel="canonical" href={`https://urban-nest-app.netlify.app/admin/product-update/${id}`} />
+                <title>Update Product - Tomet Clothing | Edit Product Details</title>
+                <meta name="description" content="Edit product details for Tomet Clothing. Update descriptions, images, and specifications for the selected apparel to enhance your online store's offerings." />
+                <meta name="keywords" content="Tomet Clothing Update Product, Edit Product Details, Fashion E-commerce Admin Panel, Product Management, Apparel Product Update, Online Store Updates." />
+                <link rel="canonical" href={`https://tomet-frontent.vercel.app/admin/product-update/${id}`} />
             </Helmet>
             <Toaster />
             <UpdateProduct product={product} id={id} />
