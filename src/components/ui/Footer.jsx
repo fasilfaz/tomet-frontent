@@ -25,10 +25,7 @@ const Footer = () => {
             <div className="w-full p-2">
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <Link to={"/"} className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
-                        {/* <img 
-                        src= "https://res.cloudinary.com/freestyle07/image/upload/v1718776752/logo_qm9bwj.png"
-                        className="h-8" 
-                        alt="UrbanNest Logo" /> */}
+                       
                         <span className="self-center text-2xl font-semibold whitespace-nowrap hover:text-blue-500">Tomet</span><span className='text-blue-500 self-center text-2xl font-semibold whitespace-nowrap'> Clothing</span>
                     </Link>
                     <ul className="flex gap-5 flex-wrap items-center mb-6 text-sm font-medium sm:mb-0 ">

@@ -47,13 +47,7 @@ const UserNavbar = () => {
             <Toaster />
             <div className="w-full flex items-center justify-between p-3">
                 <Link to={"/"} className="inline-flex items-center space-x-2">
-                    {/* <span>
-                        <img
-                            src="https://res.cloudinary.com/freestyle07/image/upload/v1718776752/logo_qm9bwj.png"
-                            width={"30px"}
-                            height={"30px"}
-                            alt="UrbanNest Logo" />
-                    </span> */}
+                   
                     <span className="font-bold">Tomet</span><span className='text-blue-600 font-bold'> Clothing</span>
                 </Link>
                 <div className="hidden lg:block">
@@ -105,12 +99,7 @@ const UserNavbar = () => {
                             <div className="px-5 pb-6 pt-5">
                                 <div className="flex items-center justify-between">
                                     <Link to={"/"} className="inline-flex items-center space-x-2">
-                                        {/* <span>
-                                            <img src="https://res.cloudinary.com/freestyle07/image/upload/v1718776752/logo_qm9bwj.png" 
-                                             width={"30px"} 
-                                             height={"30px"} 
-                                             alt="UrbanNest Logo" />
-                                        </span> */}
+                                     
                                         <span className="font-bold">Tomet</span><span className='font-bold text-blue-600'>Clothing</span>
                                     </Link>
                                     <div className="-mr-2">
