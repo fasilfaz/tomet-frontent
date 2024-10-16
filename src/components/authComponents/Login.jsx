@@ -10,6 +10,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Input } from '../ui/input';
 import { Helmet } from 'react-helmet';
 import { loginUser } from '../../redux/features/users/userSlice';
+import loginImg from "../../assets/row-colorful-shopping-bags-with-one-that-says-shopper-it.jpg"
 
 const signinSchema = yup.object({
     email: yup.string().email().required(),
@@ -132,7 +133,7 @@ const Login = () => {
                 <div className="lg:inline hidden">
                     <img
                         className="mx-auto h-full w-full object-cover"
-                        src="https://res.cloudinary.com/freestyle07/image/upload/v1718777219/login_wax60k.avif"
+                        src={`${loginImg}`}
                         alt="login page image"
                     />
                 </div>

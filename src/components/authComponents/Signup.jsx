@@ -9,6 +9,7 @@ import { Button } from '../ui/button';
 import { useDispatch } from 'react-redux';
 import { Helmet } from 'react-helmet';
 import { createUser } from '../../redux/features/users/userSlice';
+import signupImg from "../../assets/blur-young-woman-showing-colorful-shopping-bags.jpg"
 
 const SUPPORTED_FORMATS = ['image/jpg', 'image/jpeg', 'image/png', 'image/gif'];
 
@@ -82,7 +83,7 @@ const Signup = () => {
             <div className='grid lg:grid-cols-2 h-full'>
                 <div className='lg:flex hidden'>
                     <img
-                        src="https://res.cloudinary.com/freestyle07/image/upload/v1718778060/signup_etk28h.webp"
+                        src={`${signupImg}`}
                         className='object-center'
                         alt="sign up image"
                     />

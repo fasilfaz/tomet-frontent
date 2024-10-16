@@ -1,5 +1,4 @@
 import { FaqAccordion, SubBanner } from '@/components';
-import React from 'react';
 import { Helmet } from 'react-helmet';
 
 const FaqPage = () => {

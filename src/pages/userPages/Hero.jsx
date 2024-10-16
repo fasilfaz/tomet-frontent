@@ -7,7 +7,8 @@ import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
 import "../../App.css"
 import banner from "../../assets/happy-young-man-with-red-hair-shopping-stores-showing-thumbsup-holding-paper-bag-shoulde.jpg"
-
+import banner2 from "../../assets/unrecognizable-woman-with-shopping-bags.jpg"
+import banner3 from "../../assets/portrait-man-going-out-shopping-various-consumer-goods.jpg"
 const Hero = () => {
     const [bestSeller, setBestSeller] = useState(null);
     const [newArrival, setNewArrival] = useState(null);
@@ -45,8 +46,8 @@ const Hero = () => {
                 className="h-[70vh] grid place-items-center w-full bg-[image:var(--image-url-sm)] sm:bg-[image:var(--image-url-md)] xl:bg-[image:var(--image-url)]"
                 style={{
                     '--image-url': `url(${banner})`,
-                    '--image-url-md': `url(https://res.cloudinary.com/freestyle07/image/upload/v1718783568/orange-sofa-image-for-the-e-commerce-furniture-website-banner-background-should-be-filled-with-more--877807472_ugrh2g.png)`,
-                    '--image-url-sm': `url(https://res.cloudinary.com/freestyle07/image/upload/v1718783910/orange-one-seat-sofa-image-for-the-e-commerce-furniture-website-banner-background-should-be-filled-w-877807472_1_dng30u.png)`,
+                    '--image-url-md': `url(${banner2})`,
+                    '--image-url-sm': `url(${banner3})`,
                     backgroundPosition: "center",
                     backgroundRepeat: "no-repeat",
                     backgroundAttachment: "fixed",
